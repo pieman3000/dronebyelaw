@@ -1,15 +1,16 @@
 ---
-title: Fylde Borough Council
+title: St Helens Metropolitan Borough Council
 description:
 published: 1
 date: 2021-02-08T20:17:10.409Z
-tags: england,lancashire
+tags: england,mersyside
 editor: undefined
 dateCreated: 2021-02-08T20:17:02.945Z
 ---
 
-# Fylde Borough Council
-
+# St Helens Metropolitan Borough Council
+>  Awaiting Response
+> {.is-danger}
 
 ## Byelaw
 > Paste full byelaw here
@@ -28,5 +29,5 @@ Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
 ## What Do They Know
 
 Link to WhatDoTheyKnow.com page:
-http://www.whatdotheyknow.com/alaveteli_pro/info_requests/byelaws_relating_to_uav_flights_558
+http://www.whatdotheyknow.com/alaveteli_pro/info_requests/byelaws_relating_to_uav_flights_664
 
