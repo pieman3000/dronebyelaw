@@ -2,29 +2,24 @@
 title: Milton Keynes Council
 description: 
 published: true
-date: 2021-02-16T12:16:31.621Z
-tags: 
-editor: undefined
+date: 2021-02-17T17:38:49.564Z
+tags: england,buckinghamshire
+editor: markdown
 dateCreated: 2021-02-16T12:16:27.947Z
 ---
 
 # Milton Keynes Council
->  Awaiting Response
-> {.is-danger}
+
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
