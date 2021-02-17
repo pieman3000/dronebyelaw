@@ -2,9 +2,9 @@
 title: Iver Parish Council
 description: 
 published: true
-date: 2021-02-16T12:16:26.708Z
-tags: 
-editor: undefined
+date: 2021-02-17T17:38:09.598Z
+tags: england,buckinghamshire
+editor: markdown
 dateCreated: 2021-02-16T12:16:23.838Z
 ---
 
@@ -12,18 +12,15 @@ dateCreated: 2021-02-16T12:16:23.838Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
 Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+[iver_parish_drone_guidelines_july_2019_final.pdf](/assets/iver_parish_drone_guidelines_july_2019_final.pdf)
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): No
 
 ## What Do They Know
 
