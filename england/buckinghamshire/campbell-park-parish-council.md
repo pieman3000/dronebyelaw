@@ -2,9 +2,9 @@
 title: Campbell Park Parish Council
 description: 
 published: true
-date: 2021-02-16T12:15:48.740Z
-tags: 
-editor: undefined
+date: 2021-02-17T17:28:32.408Z
+tags: england,buckinghamshire
+editor: markdown
 dateCreated: 2021-02-16T12:15:45.586Z
 ---
 
@@ -12,18 +12,14 @@ dateCreated: 2021-02-16T12:15:45.586Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+>Campbell Park Parish Council prohibits the flying of unauthorised drones on any land that it owns or leases. There is no Byelaw in place connected to said prohibition.
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): No response
 
 ## What Do They Know
 
