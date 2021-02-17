@@ -2,29 +2,22 @@
 title: Amber Valley Borough Council
 description: 
 published: true
-date: 2021-02-16T12:20:57.508Z
-tags: 
-editor: undefined
+date: 2021-02-17T18:39:22.259Z
+tags: england,derbyshire
+editor: markdown
 dateCreated: 2021-02-16T12:20:53.974Z
 ---
 
 # Amber Valley Borough Council
->  Awaiting Response
-> {.is-danger}
-
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
