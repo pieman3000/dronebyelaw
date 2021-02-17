@@ -2,28 +2,23 @@
 title: Stapeley and District Parish Council
 description: 
 published: true
-date: 2021-02-16T12:18:46.286Z
-tags: 
-editor: undefined
+date: 2021-02-17T18:27:31.966Z
+tags: england,cheshire
+editor: markdown
 dateCreated: 2021-02-16T12:18:42.095Z
 ---
 
 # Stapeley and District Parish Council
 
-
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
