@@ -2,9 +2,9 @@
 title: Slough Borough Council
 description: 
 published: true
-date: 2021-02-16T12:15:16.833Z
-tags: 
-editor: undefined
+date: 2021-02-17T17:20:23.441Z
+tags: england,berkshire
+editor: markdown
 dateCreated: 2021-02-16T12:15:13.590Z
 ---
 
@@ -12,14 +12,12 @@ dateCreated: 2021-02-16T12:15:13.590Z
 
 
 ## Byelaw
-> Paste full byelaw here
+> Our byelaws only permit model aircraft to be flown in Upton Court Park. In Upton Court Park there is a designated area for flying model aircraft and only members of the flying club are allowed to use this. The club has qualified officers who ensure all licences and training are in place before any member is allowed to use their aircraft.
 
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+> No one is allowed to fly a drone or UAV anywhere in any of our other open spaces.
+> There are also national laws about flying drones and model aircraft to ensure safety that would also apply wherever someone wishes to fly.
 
 ## CAP722C
 
