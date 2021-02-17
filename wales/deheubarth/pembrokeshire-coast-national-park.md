@@ -2,7 +2,7 @@
 title: Pembrokeshire Coast National Park
 description: 
 published: true
-date: 2021-02-17T16:18:05.689Z
+date: 2021-02-17T16:19:48.917Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T16:18:05.689Z
@@ -19,6 +19,9 @@ dateCreated: 2021-02-17T16:18:05.689Z
 
 Link to policy: 
 https://www.pembrokeshirecoast.wales/get-involved/filming/drones/
+
+Recreational Flying Leaflet:
+https://www.pembrokeshirecoast.wales/wp-content/uploads/2019/09/drone_guidance.pdf
 
 ## CAP722C
 
