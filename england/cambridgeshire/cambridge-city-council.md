@@ -2,9 +2,9 @@
 title: Cambridge City Council
 description: 
 published: true
-date: 2021-02-16T12:16:52.920Z
-tags: 
-editor: undefined
+date: 2021-02-17T18:13:28.699Z
+tags: england,cambridgeshire
+editor: markdown
 dateCreated: 2021-02-16T12:16:49.939Z
 ---
 
@@ -13,18 +13,15 @@ dateCreated: 2021-02-16T12:16:49.939Z
 > {.is-danger}
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+> Any request made the applicant in the first instance would be asked to consult with Marshalls Aerospace to obtain consents required. 
+If consent is given The City Council would work on an agreed approach and identify area suitable.
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI):  No
 
 ## What Do They Know
 
