@@ -2,7 +2,7 @@
 title: Broads Authority
 description: 
 published: true
-date: 2021-02-17T15:34:26.342Z
+date: 2021-02-17T15:34:46.617Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T15:34:26.342Z
@@ -13,8 +13,7 @@ dateCreated: 2021-02-17T15:34:26.342Z
 
 
 ## Byelaw
-> We do not have any specific bylaws relating to the flying of UAV’s on land
-owned by the Broads Authority.
+> We do not have any specific bylaws relating to the flying of UAV’s on land owned by the Broads Authority.
 
 
 ## Policies
