@@ -2,19 +2,18 @@
 title: Bracknell Forest Borough Council
 description: 
 published: true
-date: 2021-02-17T17:11:52.916Z
+date: 2021-02-17T17:12:20.258Z
 tags: england,berkshire
 editor: markdown
 dateCreated: 2021-02-16T12:14:49.875Z
 ---
 
 # Bracknell Forest Borough Council
->  Awaiting Response
-> {.is-danger}
+
 
 ## Byelaw
 ### Lily HIll Park
-> P17. No person shall on the land fly or participate in the flying of any model aircraft.
+> 17. No person shall on the land fly or participate in the flying of any model aircraft.
 
 Link:
 [bfbc-snp_themaze21020213330.pdf](/assets/bfbc-snp_themaze21020213330.pdf)
