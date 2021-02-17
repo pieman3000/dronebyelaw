@@ -1,11 +1,11 @@
 ---
 title: Template
 description: 
-published: 1
-date: 2021-02-08T20:28:33.333Z
+published: true
+date: 2021-02-16T12:11:52.818Z
 tags: 
 editor: undefined
-dateCreated: 2021-02-08T19:16:12.609Z
+dateCreated: 2021-02-16T12:11:49.834Z
 ---
 
 # Authority's Full Name

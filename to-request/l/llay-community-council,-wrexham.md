@@ -1,11 +1,11 @@
 ---
 title: Llay Community Council, Wrexham
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags:
+description: 
+published: true
+date: 2021-02-16T15:54:47.235Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-15T20:17:02.945Z
+dateCreated: 2021-02-16T15:54:44.234Z
 ---
 
 # Llay Community Council, Wrexham

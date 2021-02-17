@@ -1,11 +1,11 @@
 ---
 title: Itchingfield Parish Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,west-sussex
+description: 
+published: true
+date: 2021-02-16T13:02:41.119Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T13:02:38.186Z
 ---
 
 # Itchingfield Parish Council

@@ -1,11 +1,11 @@
 ---
 title: Hinckley and Bosworth Borough Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,leicestershire
+description: 
+published: true
+date: 2021-02-16T12:44:01.719Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:43:58.962Z
 ---
 
 # Hinckley and Bosworth Borough Council

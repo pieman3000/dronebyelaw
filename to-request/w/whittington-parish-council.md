@@ -1,11 +1,11 @@
 ---
 title: Whittington Parish Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags:
+description: 
+published: true
+date: 2021-02-16T18:38:35.606Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-15T20:17:02.945Z
+dateCreated: 2021-02-16T18:38:32.647Z
 ---
 
 # Whittington Parish Council

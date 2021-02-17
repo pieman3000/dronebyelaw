@@ -1,11 +1,11 @@
 ---
 title: Hook Community Council, Pembrokeshire
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags:
+description: 
+published: true
+date: 2021-02-16T15:16:11.481Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-15T20:17:02.945Z
+dateCreated: 2021-02-16T15:16:08.331Z
 ---
 
 # Hook Community Council, Pembrokeshire

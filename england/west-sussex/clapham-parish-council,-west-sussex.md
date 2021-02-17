@@ -1,11 +1,11 @@
 ---
 title: Clapham Parish Council, West Sussex
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,west-sussex
+description: 
+published: true
+date: 2021-02-16T12:59:55.600Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:59:52.749Z
 ---
 
 # Clapham Parish Council, West Sussex

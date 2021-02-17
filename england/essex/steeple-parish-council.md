@@ -1,11 +1,11 @@
 ---
 title: Steeple Parish Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,essex
+description: 
+published: true
+date: 2021-02-16T12:33:00.881Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:32:57.885Z
 ---
 
 # Steeple Parish Council

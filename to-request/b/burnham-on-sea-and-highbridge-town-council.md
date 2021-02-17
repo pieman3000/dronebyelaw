@@ -1,11 +1,11 @@
 ---
 title: Burnham on Sea and Highbridge Town Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags:
+description: 
+published: true
+date: 2021-02-16T13:49:49.915Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-15T20:17:02.945Z
+dateCreated: 2021-02-16T13:49:46.654Z
 ---
 
 # Burnham on Sea and Highbridge Town Council

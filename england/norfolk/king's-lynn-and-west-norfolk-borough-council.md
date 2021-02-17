@@ -1,11 +1,11 @@
 ---
 title: King's Lynn and West Norfolk Borough Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,norfolk
+description: 
+published: true
+date: 2021-02-16T12:46:19.529Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:46:16.289Z
 ---
 
 # King's Lynn and West Norfolk Borough Council

@@ -1,11 +1,11 @@
 ---
 title: Brindley and Faddiley Parish Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags:
+description: 
+published: true
+date: 2021-02-16T13:42:02.082Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-15T20:17:02.945Z
+dateCreated: 2021-02-16T13:41:58.921Z
 ---
 
 # Brindley and Faddiley Parish Council

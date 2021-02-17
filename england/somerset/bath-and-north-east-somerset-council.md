@@ -1,11 +1,11 @@
 ---
 title: Bath and North East Somerset Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,somerset
+description: 
+published: true
+date: 2021-02-16T12:52:13.471Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:52:10.176Z
 ---
 
 # Bath and North East Somerset Council

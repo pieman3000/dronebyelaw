@@ -2,9 +2,9 @@
 title: Central Bedfordshire Council
 description: 
 published: true
-date: 2021-02-17T16:36:49.191Z
-tags: england,bedfordshire
-editor: markdown
+date: 2021-02-17T16:36:51.990Z
+tags: 
+editor: undefined
 dateCreated: 2021-02-16T12:14:41.958Z
 ---
 

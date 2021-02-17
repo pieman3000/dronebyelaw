@@ -1,11 +1,11 @@
 ---
 title: Wrexham County Borough Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: wales
+description: 
+published: true
+date: 2021-02-16T12:14:36.347Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:14:33.374Z
 ---
 
 # Wrexham County Borough Council

@@ -1,11 +1,11 @@
 ---
 title: Stanford-in-the-Vale Parish Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags:
+description: 
+published: true
+date: 2021-02-16T17:46:16.814Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-15T20:17:02.945Z
+dateCreated: 2021-02-16T17:46:13.314Z
 ---
 
 # Stanford-in-the-Vale Parish Council

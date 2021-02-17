@@ -1,11 +1,11 @@
 ---
 title: Liverpool City Region Combined Authority
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,liverpool
+description: 
+published: true
+date: 2021-02-16T12:45:28.901Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:45:25.974Z
 ---
 
 # Liverpool City Region Combined Authority

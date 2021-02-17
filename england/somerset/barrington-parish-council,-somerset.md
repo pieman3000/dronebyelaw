@@ -1,11 +1,11 @@
 ---
 title: Barrington Parish Council, Somerset
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,somerset
+description: 
+published: true
+date: 2021-02-16T12:52:08.695Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:52:04.895Z
 ---
 
 # Barrington Parish Council, Somerset

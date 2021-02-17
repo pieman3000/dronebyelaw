@@ -1,11 +1,11 @@
 ---
 title: Bury Metropolitan Borough Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,greater-manchester
+description: 
+published: true
+date: 2021-02-16T12:36:03.355Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:36:00.033Z
 ---
 
 # Bury Metropolitan Borough Council

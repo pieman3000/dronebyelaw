@@ -1,11 +1,11 @@
 ---
 title: Tewkesbury Borough Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,gloucestershire
+description: 
+published: true
+date: 2021-02-16T12:35:50.576Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:35:47.839Z
 ---
 
 # Tewkesbury Borough Council

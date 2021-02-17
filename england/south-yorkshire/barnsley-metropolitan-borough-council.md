@@ -1,11 +1,11 @@
 ---
 title: Barnsley Metropolitan Borough Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,south-yorkshire
+description: 
+published: true
+date: 2021-02-16T12:52:58.205Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:52:54.972Z
 ---
 
 # Barnsley Metropolitan Borough Council

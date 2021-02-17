@@ -1,11 +1,11 @@
 ---
 title: Council of the Isles of Scilly
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,isles-of-scilly
+description: 
+published: true
+date: 2021-02-16T12:40:37.501Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:40:34.594Z
 ---
 
 # Council of the Isles of Scilly

@@ -2,9 +2,9 @@
 title: Snowdonia National Park 
 description: 
 published: true
-date: 2021-02-17T15:53:00.533Z
+date: 2021-02-17T15:53:05.022Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2021-02-17T15:53:00.533Z
 ---
 

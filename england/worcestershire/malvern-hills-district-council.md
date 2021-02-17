@@ -1,11 +1,11 @@
 ---
 title: Malvern Hills District Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,worcestershire
+description: 
+published: true
+date: 2021-02-16T13:05:46.835Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T13:05:43.929Z
 ---
 
 # Malvern Hills District Council

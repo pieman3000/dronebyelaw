@@ -1,11 +1,11 @@
 ---
 title: Perranzabuloe Parish Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,cornwall
+description: 
+published: true
+date: 2021-02-16T12:19:07.717Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:19:03.340Z
 ---
 
 # Perranzabuloe Parish Council

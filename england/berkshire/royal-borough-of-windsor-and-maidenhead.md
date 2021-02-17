@@ -1,11 +1,11 @@
 ---
 title: Royal Borough of Windsor and Maidenhead
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,berkshire
+description: 
+published: true
+date: 2021-02-16T12:15:12.295Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:15:08.796Z
 ---
 
 # Royal Borough of Windsor and Maidenhead

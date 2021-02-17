@@ -1,11 +1,11 @@
 ---
 title: Ashington Parish Council, West Sussex
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,west-sussex
+description: 
+published: true
+date: 2021-02-16T12:58:35.029Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:58:32.118Z
 ---
 
 # Ashington Parish Council, West Sussex

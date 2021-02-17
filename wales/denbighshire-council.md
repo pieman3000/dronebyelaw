@@ -1,11 +1,11 @@
 ---
 title: Denbighshire Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: wales
+description: 
+published: true
+date: 2021-02-16T12:13:31.111Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:13:27.956Z
 ---
 
 # Denbighshire Council

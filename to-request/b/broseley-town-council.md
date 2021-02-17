@@ -1,11 +1,11 @@
 ---
 title: Broseley Town Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags:
+description: 
+published: true
+date: 2021-02-16T13:44:21.499Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-15T20:17:02.945Z
+dateCreated: 2021-02-16T13:44:18.822Z
 ---
 
 # Broseley Town Council

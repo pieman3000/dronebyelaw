@@ -1,11 +1,11 @@
 ---
 title: Fermanagh and Omagh District Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: northern-ireland
+description: 
+published: true
+date: 2021-02-16T12:12:22.004Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:12:19.264Z
 ---
 
 # Fermanagh and Omagh District Council

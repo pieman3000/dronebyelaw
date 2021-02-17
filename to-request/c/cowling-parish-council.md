@@ -1,11 +1,11 @@
 ---
 title: Cowling Parish Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags:
+description: 
+published: true
+date: 2021-02-16T14:14:50.432Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-15T20:17:02.945Z
+dateCreated: 2021-02-16T14:14:47.666Z
 ---
 
 # Cowling Parish Council

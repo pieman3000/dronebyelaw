@@ -1,11 +1,11 @@
 ---
 title: Hassocks Parish Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,west-sussex
+description: 
+published: true
+date: 2021-02-16T13:02:11.521Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T13:02:08.057Z
 ---
 
 # Hassocks Parish Council

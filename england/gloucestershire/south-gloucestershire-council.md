@@ -1,11 +1,11 @@
 ---
 title: South Gloucestershire Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,gloucestershire
+description: 
+published: true
+date: 2021-02-16T12:35:42.084Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:35:38.976Z
 ---
 
 # South Gloucestershire Council

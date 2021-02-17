@@ -1,11 +1,11 @@
 ---
 title: Gateshead Metropolitan Borough Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,tyne-and-wear
+description: 
+published: true
+date: 2021-02-16T12:56:38.720Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:56:35.501Z
 ---
 
 # Gateshead Metropolitan Borough Council

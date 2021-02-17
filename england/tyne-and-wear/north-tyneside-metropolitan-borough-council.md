@@ -1,11 +1,11 @@
 ---
 title: North Tyneside Metropolitan Borough Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,tyne-and-wear
+description: 
+published: true
+date: 2021-02-16T12:56:47.886Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:56:44.749Z
 ---
 
 # North Tyneside Metropolitan Borough Council

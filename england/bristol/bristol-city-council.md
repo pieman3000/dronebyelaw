@@ -1,11 +1,11 @@
 ---
 title: Bristol City Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,bristol
+description: 
+published: true
+date: 2021-02-16T12:15:29.823Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:15:26.741Z
 ---
 
 # Bristol City Council

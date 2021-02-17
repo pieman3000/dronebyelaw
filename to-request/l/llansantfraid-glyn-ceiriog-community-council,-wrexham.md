@@ -1,11 +1,11 @@
 ---
 title: Llansantfraid Glyn Ceiriog Community Council, Wrexham
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags:
+description: 
+published: true
+date: 2021-02-16T15:53:49.565Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-15T20:17:02.945Z
+dateCreated: 2021-02-16T15:53:46.615Z
 ---
 
 # Llansantfraid Glyn Ceiriog Community Council, Wrexham

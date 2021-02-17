@@ -1,11 +1,11 @@
 ---
 title: Cheshire East Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,cheshire
+description: 
+published: true
+date: 2021-02-16T12:17:56.245Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:17:52.739Z
 ---
 
 # Cheshire East Council

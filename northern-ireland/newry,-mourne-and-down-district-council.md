@@ -1,11 +1,11 @@
 ---
 title: Newry, Mourne and Down District Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: northern-ireland
+description: 
+published: true
+date: 2021-02-16T12:12:39.464Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:12:36.271Z
 ---
 
 # Newry, Mourne and Down District Council

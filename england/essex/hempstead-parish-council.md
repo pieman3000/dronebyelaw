@@ -1,11 +1,11 @@
 ---
 title: Hempstead Parish council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,essex
+description: 
+published: true
+date: 2021-02-16T12:29:00.406Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:28:57.534Z
 ---
 
 # Hempstead Parish council

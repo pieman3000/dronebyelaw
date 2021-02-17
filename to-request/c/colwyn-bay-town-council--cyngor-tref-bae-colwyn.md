@@ -1,11 +1,11 @@
 ---
 title: Colwyn Bay Town Council / Cyngor Tref Bae Colwyn
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags:
+description: 
+published: true
+date: 2021-02-16T14:11:34.896Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-15T20:17:02.945Z
+dateCreated: 2021-02-16T14:11:32.122Z
 ---
 
 # Colwyn Bay Town Council / Cyngor Tref Bae Colwyn

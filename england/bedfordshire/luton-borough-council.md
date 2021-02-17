@@ -1,11 +1,11 @@
 ---
 title: Luton Borough Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,bedfordshire
+description: 
+published: true
+date: 2021-02-16T12:14:48.752Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:14:45.938Z
 ---
 
 # Luton Borough Council

@@ -1,11 +1,11 @@
 ---
 title: Newtown and Llanllwchaiarn Town Council, Powys
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags:
+description: 
+published: true
+date: 2021-02-16T16:33:12.879Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-15T20:17:02.945Z
+dateCreated: 2021-02-16T16:33:07.152Z
 ---
 
 # Newtown and Llanllwchaiarn Town Council, Powys

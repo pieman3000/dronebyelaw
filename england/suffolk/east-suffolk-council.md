@@ -1,11 +1,11 @@
 ---
 title: East Suffolk Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,suffolk
+description: 
+published: true
+date: 2021-02-16T12:54:30.751Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:54:27.549Z
 ---
 
 # East Suffolk Council

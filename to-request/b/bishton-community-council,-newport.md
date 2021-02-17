@@ -1,11 +1,11 @@
 ---
 title: Bishton Community Council, Newport
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags:
+description: 
+published: true
+date: 2021-02-16T13:32:20.907Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-15T20:17:02.945Z
+dateCreated: 2021-02-16T13:32:17.480Z
 ---
 
 # Bishton Community Council, Newport

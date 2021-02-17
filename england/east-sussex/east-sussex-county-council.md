@@ -1,11 +1,11 @@
 ---
 title: East Sussex County Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,east-sussex
+description: 
+published: true
+date: 2021-02-16T12:24:14.415Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:24:11.353Z
 ---
 
 # East Sussex County Council

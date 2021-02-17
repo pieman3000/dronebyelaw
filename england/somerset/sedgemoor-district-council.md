@@ -1,11 +1,11 @@
 ---
 title: Sedgemoor District Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,somerset
+description: 
+published: true
+date: 2021-02-16T12:52:34.376Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:52:30.966Z
 ---
 
 # Sedgemoor District Council

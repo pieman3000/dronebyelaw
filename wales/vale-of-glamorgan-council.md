@@ -1,11 +1,11 @@
 ---
 title: Vale of Glamorgan Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: wales
+description: 
+published: true
+date: 2021-02-16T12:14:32.293Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:14:29.406Z
 ---
 
 # Vale of Glamorgan Council

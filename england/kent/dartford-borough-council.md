@@ -1,11 +1,11 @@
 ---
 title: Dartford Borough Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,kent
+description: 
+published: true
+date: 2021-02-16T12:40:50.482Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:40:47.706Z
 ---
 
 # Dartford Borough Council

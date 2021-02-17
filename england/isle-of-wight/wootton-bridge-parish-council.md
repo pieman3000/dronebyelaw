@@ -1,11 +1,11 @@
 ---
 title: Wootton Bridge Parish Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,isle-of-wight
+description: 
+published: true
+date: 2021-02-16T12:40:33.075Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:40:29.905Z
 ---
 
 # Wootton Bridge Parish Council

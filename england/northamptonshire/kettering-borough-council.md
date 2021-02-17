@@ -1,11 +1,11 @@
 ---
 title: Kettering Borough Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,northamptonshire
+description: 
+published: true
+date: 2021-02-16T12:48:58.101Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:48:54.319Z
 ---
 
 # Kettering Borough Council

@@ -1,11 +1,11 @@
 ---
 title: West Berkshire Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,berkshire
+description: 
+published: true
+date: 2021-02-16T12:15:21.066Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:15:18.036Z
 ---
 
 # West Berkshire Council

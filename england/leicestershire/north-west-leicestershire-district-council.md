@@ -1,11 +1,11 @@
 ---
 title: North West Leicestershire District Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,leicestershire
+description: 
+published: true
+date: 2021-02-16T12:44:18.302Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:44:15.523Z
 ---
 
 # North West Leicestershire District Council

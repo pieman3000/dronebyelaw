@@ -1,11 +1,11 @@
 ---
 title: Ryedale District Council
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,north-yorkshire
+description: 
+published: true
+date: 2021-02-16T12:48:12.296Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:48:08.256Z
 ---
 
 # Ryedale District Council

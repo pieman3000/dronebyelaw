@@ -1,11 +1,11 @@
 ---
 title: Coleford Parish Council, Somerset
-description:
-published: 1
-date: 2021-02-08T20:17:10.409Z
-tags: england,somerset
+description: 
+published: true
+date: 2021-02-16T12:52:19.162Z
+tags: 
 editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+dateCreated: 2021-02-16T12:52:15.271Z
 ---
 
 # Coleford Parish Council, Somerset
