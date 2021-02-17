@@ -2,7 +2,7 @@
 title: The Crown Estate
 description: 
 published: true
-date: 2021-02-17T14:37:22.059Z
+date: 2021-02-17T14:46:04.286Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T14:37:22.059Z
@@ -39,3 +39,5 @@ https://www.thecrownestate.co.uk/media/2763/terms-and-conditions-for-flying-dron
 Link to policy: 
 https://www.thecrownestate.co.uk/en-gb/what-we-do/on-the-seabed/coastal/metal-detecting-and-drone-flying/
 
+## Foreshore Map
+https://crownestate.maps.arcgis.com/apps/Viewer/index.html?appid=0aac22685d2f4d78a2a3b0a5aa1660db&amp;fbclid=IwAR1Ux_Xw3odHmrs9QURIjTsK1mlsLqyvy6Si7slwly7HEXs7MGOFOgNP-d4
