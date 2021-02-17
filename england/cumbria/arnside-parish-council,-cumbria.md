@@ -2,28 +2,23 @@
 title: Arnside Parish Council, Cumbria
 description: 
 published: true
-date: 2021-02-16T12:20:04.563Z
-tags: 
-editor: undefined
+date: 2021-02-17T18:35:36.954Z
+tags: england,cumbria
+editor: markdown
 dateCreated: 2021-02-16T12:19:58.284Z
 ---
 
 # Arnside Parish Council, Cumbria
 
-
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
