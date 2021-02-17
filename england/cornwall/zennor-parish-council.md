@@ -2,9 +2,9 @@
 title: Zennor Parish Council
 description: 
 published: true
-date: 2021-02-16T12:19:14.047Z
-tags: 
-editor: undefined
+date: 2021-02-17T18:31:35.206Z
+tags: england,cornwall
+editor: markdown
 dateCreated: 2021-02-16T12:19:09.487Z
 ---
 
@@ -12,18 +12,14 @@ dateCreated: 2021-02-16T12:19:09.487Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
