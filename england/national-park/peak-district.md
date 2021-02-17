@@ -2,7 +2,7 @@
 title: Peak District National Park
 description: 
 published: true
-date: 2021-02-17T15:04:52.535Z
+date: 2021-02-17T15:12:17.904Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-17T15:04:52.535Z
@@ -11,21 +11,24 @@ dateCreated: 2021-02-17T15:04:52.535Z
 # Peak District National Park
 
 ## Byelaw
-> Paste full byelaw here
+> 17 (ii) No person shall on the access land release any power-driven model aircraft for flight or control the flight of such an aircraft.
+> (iii) In this byelaw:
+> - "model aircraft" means an aircraft which either weighs not more than 7 kilograms without its fuel or is for the time being exempted (as a model aircraft) from the provision of the Air Navigation Order;
+> - "power-driven" means driven by the combustion of petrol vapour or other combustible substances or by one or more electric motors.
 
 Link: 
-https://testcouncil.co.uk/parks/byelaw.html
+https://github.com/pieman3000/dronebyelaw/blob/main/peak_district_byelaws_for_access_land_1996_redacted.pdf
 
 ## Policies
 
-> We currently don’t have a policy on the use of model aircraft and Unmanned Aerial Vehicles (UAV’s or drones), especially as a large area of the Peak District National Park is in private ownership. Information and advice regarding flying UAVs on open access can be found on our website using the following link: FAQs - Drones: Peak District National Park.  I have attached a copy of the Bye Laws referenced in the FAQs.  Redactions have been made to ensure that personal data (signatures and land owner details) are not disclosed.
+> We currently don’t have a policy on the use of model aircraft and Unmanned Aerial Vehicles (UAV’s or drones), especially as a large area of the Peak District National Park is in private ownership. Information and advice regarding flying UAVs on open access can be found on our website using the following link: FAQs - Drones: Peak District National Park.
 
 Link to policy: 
 https://www.peakdistrict.gov.uk/visiting/frequently-asked-questions/drones
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): Not answered
 
 ## What Do They Know
 
