@@ -2,9 +2,9 @@
 title: Hazlemere Parish Council
 description: 
 published: true
-date: 2021-02-16T12:16:18.635Z
-tags: 
-editor: undefined
+date: 2021-02-17T17:35:32.123Z
+tags: england,buckinghamshire
+editor: markdown
 dateCreated: 2021-02-16T12:16:15.874Z
 ---
 
@@ -12,18 +12,17 @@ dateCreated: 2021-02-16T12:16:15.874Z
 
 
 ## Byelaw
-> Paste full byelaw here
+None
 
 Link:
-https://testcouncil.co.uk/parks/byelaw.html
+https://www.hazlemereparishcouncil.org.uk/policies-and-documents/council-bye-laws/
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
