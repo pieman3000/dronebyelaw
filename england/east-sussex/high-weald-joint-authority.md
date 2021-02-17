@@ -1,14 +1,16 @@
 ---
 title: High Weald Joint Advisory Committee
 description: 
-published: 1
-date: 2021-02-08T20:17:10.409Z
+published: true
+date: 2021-02-17T16:28:36.066Z
 tags: 
-editor: undefined
-dateCreated: 2021-02-08T20:17:02.945Z
+editor: markdown
+dateCreated: 2021-02-16T12:24:24.873Z
 ---
 
 # High Weald Joint Advisory Committee
+>  Awaiting Response
+> {.is-danger}
 
 # Awaiting Response
 ## Byelaw
