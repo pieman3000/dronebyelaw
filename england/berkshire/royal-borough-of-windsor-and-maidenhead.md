@@ -2,9 +2,9 @@
 title: Royal Borough of Windsor and Maidenhead
 description: 
 published: true
-date: 2021-02-16T12:15:12.295Z
-tags: 
-editor: undefined
+date: 2021-02-17T17:19:03.901Z
+tags: england,berkshire
+editor: markdown
 dateCreated: 2021-02-16T12:15:08.796Z
 ---
 
@@ -12,18 +12,15 @@ dateCreated: 2021-02-16T12:15:08.796Z
 
 
 ## Byelaw
-> Paste full byelaw here
+None
 
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
