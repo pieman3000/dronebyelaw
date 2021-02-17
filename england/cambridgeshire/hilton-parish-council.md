@@ -2,9 +2,9 @@
 title: Hilton Parish Council
 description: 
 published: true
-date: 2021-02-16T12:17:19.971Z
-tags: 
-editor: undefined
+date: 2021-02-17T18:17:28.748Z
+tags: england,cambridgeshire
+editor: markdown
 dateCreated: 2021-02-16T12:17:16.660Z
 ---
 
@@ -12,18 +12,14 @@ dateCreated: 2021-02-16T12:17:16.660Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
