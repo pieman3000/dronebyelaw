@@ -2,9 +2,9 @@
 title: South Gloucestershire Council
 description: 
 published: true
-date: 2021-02-16T12:35:42.084Z
-tags: 
-editor: undefined
+date: 2021-02-18T21:43:37.765Z
+tags: england,gloucestershire
+editor: markdown
 dateCreated: 2021-02-16T12:35:38.976Z
 ---
 
@@ -12,18 +12,14 @@ dateCreated: 2021-02-16T12:35:38.976Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+No formal policy, but see: [sg_guidance_for_uav_and_drones.pdf](/sg_guidance_for_uav_and_drones.pdf)
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): No response
 
 ## What Do They Know
 
