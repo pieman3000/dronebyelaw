@@ -2,9 +2,9 @@
 title: Salford City Council
 description: 
 published: true
-date: 2021-02-16T12:36:24.725Z
-tags: 
-editor: undefined
+date: 2021-02-18T21:55:02.531Z
+tags: england,greater-manchester
+editor: markdown
 dateCreated: 2021-02-16T12:36:22.053Z
 ---
 
@@ -12,18 +12,15 @@ dateCreated: 2021-02-16T12:36:22.053Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
 Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+https://www.salford.gov.uk/media/392300/drone-flights.pdf
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): "No but in hand to review as soon as possible."
 
 ## What Do They Know
 
