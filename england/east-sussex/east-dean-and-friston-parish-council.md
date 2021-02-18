@@ -2,28 +2,16 @@
 title: East Dean and Friston Parish Council
 description: 
 published: true
-date: 2021-02-16T12:24:09.867Z
-tags: 
-editor: undefined
+date: 2021-02-18T20:46:54.396Z
+tags: england,east-sussex
+editor: markdown
 dateCreated: 2021-02-16T12:24:06.245Z
 ---
 
 # East Dean and Friston Parish Council
 
 
-## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
-
-## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
-
-## CAP722C
-
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+No land owned by the Council.
 
 ## What Do They Know
 
