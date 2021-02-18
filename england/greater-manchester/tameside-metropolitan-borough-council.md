@@ -2,9 +2,9 @@
 title: Tameside Metropolitan Borough Council
 description: 
 published: true
-date: 2021-02-16T12:36:32.783Z
-tags: 
-editor: undefined
+date: 2021-02-18T22:02:29.094Z
+tags: england,greater-manchester
+editor: markdown
 dateCreated: 2021-02-16T12:36:29.823Z
 ---
 
@@ -15,15 +15,14 @@ dateCreated: 2021-02-16T12:36:29.823Z
 > Paste full byelaw here
 
 Link:
-https://testcouncil.co.uk/parks/byelaw.html
+https://www.tameside.gov.uk/docs/Byelaws-15-12-14.pdf
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None advised
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): No response
 
 ## What Do They Know
 
