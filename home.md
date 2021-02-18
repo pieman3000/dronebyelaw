@@ -2,20 +2,23 @@
 title: Homepage - UK Drone Byelaws Wiki
 description: 
 published: true
-date: 2021-02-16T12:11:48.572Z
+date: 2021-02-18T21:31:12.752Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-02-16T12:11:43.795Z
 ---
+
+# Not yet live - still under development to import data
+If you're in need of information now, then the links are on each council page to the FOI request ay whatdotheyknow.com 
 
 # Welcome
 Welcome to a wiki to collect details on the different Byelaws in force accepts the UK affecting drone pilots. Ths has initially been built based on Freedom of Information requests made via [What Do They Know](https://whatdotheyknow.com).
 
-Anyone can [login](https://dronebyelaw.co.uk/login) using Discord, Github or Google account details. Once logged in you can add or edit pages, and you're encouraged to do so to help ensure the information on this site is as accurate as possible.
+Anyone can [login](https://dronebyelaw.co.uk/login) using Discord, or Google account details. Once logged in you can comment on pages, as well as add or edit pages, and you're encouraged to do so to help ensure the information on this site is as accurate as possible.
 
 As ever, please ensure that this resource is used as only a part of your research on deciding where you can fly. As the Operator and/or Pilot you are responsible for ensuring that your flight is legal.
 
 ## Areas for Development - User support encouraged
 - London - It's complicated!
-- Adding more Civil Parishes - https://en.wikipedia.org/wiki/List_of_civil_parishes_in_England
-- Scotland has not been included due to the different laws regarding trespass, more research is needed here
+- Adding more Civil Parishes - These are listed alphabetically in the /england/to-request folder if you'd like to 'adopt' any to send a Freedom of Information act requests and then update here.
+- Scotland has not been included due to the different laws regarding trespass, more research is needed here. If you know about this, please get in touch with me at simon@dronebyelaw.co.uk 
