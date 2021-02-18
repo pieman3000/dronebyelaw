@@ -2,9 +2,9 @@
 title: Gloucestershire County Council
 description: 
 published: true
-date: 2021-02-16T12:35:37.795Z
-tags: 
-editor: undefined
+date: 2021-02-18T21:41:01.984Z
+tags: england,gloucestershire
+editor: markdown
 dateCreated: 2021-02-16T12:35:35.012Z
 ---
 
@@ -12,18 +12,14 @@ dateCreated: 2021-02-16T12:35:35.012Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+> Gloucestershire County Council (GCC) would not routinely provide consent for the take - off and landing of UAVs on council land unless it was for a specific agreed purpose (non - leisure) or by GCC/public sector partners, tenants or contractors for business use (high level inspections of structures for example).
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): "Gloucestershire County Council operates within CAP722."
 
 ## What Do They Know
 
