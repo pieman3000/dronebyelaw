@@ -2,9 +2,9 @@
 title: Forest of Dean District Council
 description: 
 published: true
-date: 2021-02-16T12:35:29.419Z
-tags: 
-editor: undefined
+date: 2021-02-18T21:38:46.463Z
+tags: england,gloucestershire
+editor: markdown
 dateCreated: 2021-02-16T12:35:26.596Z
 ---
 
@@ -12,18 +12,14 @@ dateCreated: 2021-02-16T12:35:26.596Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
