@@ -2,7 +2,7 @@
 title: Brighton and Hove City Council
 description: 
 published: true
-date: 2021-02-18T21:23:21.590Z
+date: 2021-02-18T21:23:53.266Z
 tags: england,east-sussex
 editor: markdown
 dateCreated: 2021-02-16T12:23:55.142Z
@@ -13,7 +13,7 @@ dateCreated: 2021-02-16T12:23:55.142Z
 
 ## Byelaw
 ### Public Walks and Pleasure Grounds known as:
-Adelaide Gardens, AldringtonRecreation Ground (aka Wish Park), Brunswick Gardens, Davis Park, Devil's Dyke Road, Dyke Railway, Easthill Park, Grand Avenue Lawn, Greenleas, Hangleton Park, High Croft Open Space, Hove Park, Hove Recreation Ground, Knoll Recreation Ground, Mile Oak Recreation Ground, Nevill Playing Field, Palmeira Gardens, Palmeira Lawn, Portland Recreation Ground (aka Stoneham Park), Portslade Recreation Ground, Queen Alexandra Avenue Open Space, St Ann's Well Gardens, St Helen's Park, The Three Cornered Copse, Vale Park, Victoria Recreation Ground.
+Adelaide Gardens, Aldrington Recreation Ground (aka Wish Park), Brunswick Gardens, Davis Park, Devil's Dyke Road, Dyke Railway, Easthill Park, Grand Avenue Lawn, Greenleas, Hangleton Park, High Croft Open Space, Hove Park, Hove Recreation Ground, Knoll Recreation Ground, Mile Oak Recreation Ground, Nevill Playing Field, Palmeira Gardens, Palmeira Lawn, Portland Recreation Ground (aka Stoneham Park), Portslade Recreation Ground, Queen Alexandra Avenue Open Space, St Ann's Well Gardens, St Helen's Park, The Three Cornered Copse, Vale Park, Victoria Recreation Ground.
 > 9. (i) A person shall not in the Pleasure Ground shall release any power-driven model aircraft for flight or control the flight of such aircraft.
 > (ii) A person shall not cause any power-driven model aircraft to take off or land in the Pleasure Ground.
 [brighton_bl_17_public_walks_and_pleasure_grounds_22_06_90_amendment_08_07_93.pdf](/assets/brighton_bl_17_public_walks_and_pleasure_grounds_22_06_90_amendment_08_07_93.pdf)
