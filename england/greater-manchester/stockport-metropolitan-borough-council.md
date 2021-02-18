@@ -2,29 +2,24 @@
 title: Stockport Metropolitan Borough Council
 description: 
 published: true
-date: 2021-02-16T12:36:28.633Z
-tags: 
-editor: undefined
+date: 2021-02-18T21:57:17.617Z
+tags: england,greater-manchester
+editor: markdown
 dateCreated: 2021-02-16T12:36:25.939Z
 ---
 
 # Stockport Metropolitan Borough Council
->  Awaiting Response
-> {.is-danger}
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+> There is a bye-law which prevents the use of "any model aircraft driven by the combustion of petrol vapour or of other substances" in Etherow Country Park which we consider would include drones (although the bye-law was passed before the advent of drones).    
+> The byelaw was made by the Bredbury and Romiley Urban District Council pursuant to Section 41 of the Countryside Act 1968 in respect of the Etherow Country Park in the Urban District of Bredbury and Romiley and is dated 16 November 1972.
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): No response
 
 ## What Do They Know
 
