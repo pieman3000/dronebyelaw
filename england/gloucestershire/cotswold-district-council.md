@@ -2,9 +2,9 @@
 title: Cotswold District Council
 description: 
 published: true
-date: 2021-02-16T12:35:25.414Z
-tags: 
-editor: undefined
+date: 2021-02-18T21:38:17.236Z
+tags: england,gloucestershire
+editor: markdown
 dateCreated: 2021-02-16T12:35:22.587Z
 ---
 
@@ -12,18 +12,14 @@ dateCreated: 2021-02-16T12:35:22.587Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
