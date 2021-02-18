@@ -2,7 +2,7 @@
 title: Tameside Metropolitan Borough Council
 description: 
 published: true
-date: 2021-02-18T22:02:29.094Z
+date: 2021-02-18T22:36:14.212Z
 tags: england,greater-manchester
 editor: markdown
 dateCreated: 2021-02-16T12:36:29.823Z
@@ -12,10 +12,15 @@ dateCreated: 2021-02-16T12:36:29.823Z
 
 
 ## Byelaw
-> Paste full byelaw here
+> I couldn't see any at a search, but this is a PDF containing scanned images so wasn't very easy to check. An OCR'd version is also linked below, but consider this to be a best approximation.
+{.is-warning}
 
-Link:
+
+Official Version:
 https://www.tameside.gov.uk/docs/Byelaws-15-12-14.pdf
+
+OCR Version:
+[tameside_byelaws-15-12-14_(1).pdf](/assets/tameside_byelaws-15-12-14_(1).pdf)
 
 ## Policies
 None advised
