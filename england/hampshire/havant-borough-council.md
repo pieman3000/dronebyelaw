@@ -2,28 +2,24 @@
 title: Havant Borough Council
 description: 
 published: true
-date: 2021-02-16T12:37:23.510Z
-tags: 
-editor: undefined
+date: 2021-02-19T15:54:37.735Z
+tags: england,hampshire
+editor: markdown
 dateCreated: 2021-02-16T12:37:20.667Z
 ---
 
 # Havant Borough Council
 
-
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
+> Havant Borough Council has not adopted any byelaws or policies in relation to the use of UAVs. Any applications to take off or land from HBC owned land would be dealt with on a case-by-case basis.
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
