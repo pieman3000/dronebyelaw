@@ -2,28 +2,23 @@
 title: New Forest District Council
 description: 
 published: true
-date: 2021-02-16T12:37:31.744Z
-tags: 
-editor: undefined
+date: 2021-02-19T15:56:27.573Z
+tags: england,hampshire
+editor: markdown
 dateCreated: 2021-02-16T12:37:28.649Z
 ---
 
 # New Forest District Council
 
-
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+> Commercial flying is subject to an application process and our code of practice which has been reviewed in relation to CAP722C. However, recreational flying is not permitted from New Forest  District Council land.
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): Yes
 
 ## What Do They Know
 
