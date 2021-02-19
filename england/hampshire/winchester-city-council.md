@@ -2,9 +2,9 @@
 title: Winchester City Council
 description: 
 published: true
-date: 2021-02-16T12:37:52.047Z
-tags: 
-editor: undefined
+date: 2021-02-19T16:27:21.340Z
+tags: england,hampshire
+editor: markdown
 dateCreated: 2021-02-16T12:37:49.113Z
 ---
 
@@ -12,18 +12,17 @@ dateCreated: 2021-02-16T12:37:49.113Z
 
 
 ## Byelaw
-> Paste full byelaw here
+None
 
 Link:
-https://testcouncil.co.uk/parks/byelaw.html
+https://www.winchester.gov.uk/about/byelaws
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): No response
 
 ## What Do They Know
 
