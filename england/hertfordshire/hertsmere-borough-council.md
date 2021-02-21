@@ -2,28 +2,23 @@
 title: Hertsmere Borough Council
 description: 
 published: true
-date: 2021-02-16T12:38:23.360Z
-tags: 
-editor: undefined
+date: 2021-02-21T15:02:44.830Z
+tags: england,hertfordshire
+editor: markdown
 dateCreated: 2021-02-16T12:38:20.188Z
 ---
 
 # Hertsmere Borough Council
 
-
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
