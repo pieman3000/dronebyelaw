@@ -2,9 +2,9 @@
 title: Council of the Isles of Scilly
 description: 
 published: true
-date: 2021-02-16T12:40:37.501Z
-tags: 
-editor: undefined
+date: 2021-02-21T15:10:40.322Z
+tags: england,isles-of-scilly
+editor: markdown
 dateCreated: 2021-02-16T12:40:34.594Z
 ---
 
@@ -12,18 +12,16 @@ dateCreated: 2021-02-16T12:40:34.594Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None advised
 
 ## Policies
 Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+https://scilly.gov.uk/drones
+https://scilly.gov.uk/news/responsible-drone-use-isles-scilly
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): No
 
 ## What Do They Know
 
