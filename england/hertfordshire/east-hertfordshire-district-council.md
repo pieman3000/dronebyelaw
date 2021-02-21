@@ -2,7 +2,7 @@
 title: East Hertfordshire District Council
 description: 
 published: true
-date: 2021-02-21T15:07:29.693Z
+date: 2021-02-21T15:07:39.935Z
 tags: england,hertfordshire
 editor: markdown
 dateCreated: 2021-02-16T12:38:11.304Z
@@ -33,7 +33,7 @@ None advised
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): No
 
 ## What Do They Know
 
