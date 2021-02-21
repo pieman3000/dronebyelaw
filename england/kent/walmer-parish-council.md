@@ -2,28 +2,26 @@
 title: Walmer Parish Council
 description: 
 published: true
-date: 2021-02-16T12:41:52.457Z
-tags: 
-editor: undefined
+date: 2021-02-21T15:16:00.633Z
+tags: england,kent
+editor: markdown
 dateCreated: 2021-02-16T12:41:49.659Z
 ---
 
 # Walmer Parish Council
+> Walmer Parish Council own four pieces of land in Walmer, these are: 
+> Hawkshill Freedown; land at York and Albany Close; Allotments at Campbell Road and the Drill field, Canada Road. 
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
