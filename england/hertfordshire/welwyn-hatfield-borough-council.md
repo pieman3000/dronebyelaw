@@ -2,9 +2,9 @@
 title: Welwyn Hatfield Borough Council
 description: 
 published: true
-date: 2021-02-16T12:38:54.368Z
-tags: 
-editor: undefined
+date: 2021-02-21T14:22:44.512Z
+tags: england,hertfordshire
+editor: markdown
 dateCreated: 2021-02-16T12:38:51.629Z
 ---
 
@@ -12,18 +12,14 @@ dateCreated: 2021-02-16T12:38:51.629Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None advised
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
