@@ -2,29 +2,24 @@
 title: Thanet District Council
 description: 
 published: true
-date: 2021-02-16T12:41:39.486Z
-tags: 
-editor: undefined
+date: 2021-02-21T15:26:18.040Z
+tags: england,kent
+editor: markdown
 dateCreated: 2021-02-16T12:41:36.612Z
 ---
 
 # Thanet District Council
->  Awaiting Response
-> {.is-danger}
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
 Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+https://www.thanet.gov.uk/media-filming/filming-in-thanet/?tab=3
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): Yes
 
 ## What Do They Know
 
