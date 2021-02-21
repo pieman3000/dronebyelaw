@@ -2,7 +2,7 @@
 title: Watford Borough Council
 description: 
 published: true
-date: 2021-02-21T14:35:13.368Z
+date: 2021-02-21T14:38:43.464Z
 tags: england,hertfordshire
 editor: markdown
 dateCreated: 2021-02-16T12:38:47.339Z
@@ -21,19 +21,19 @@ dateCreated: 2021-02-16T12:38:47.339Z
 > (i) at times when the part so set apart has been allocated by the council for the exclusive use of persons playing a match or game;
 > (ii) on days and during hours other than those specified in the following table in respect of that pleasure ground.
 > Table
-> Name of pleasure ground			Days 		Hours
+> Name of pleasure ground			......................... Days 		......................... Hours
 > CASSIOBURY PARK 
-> 														Monday to Saturday 1st May to 31st July 9am – 9pm
-> Monday to Saturday 1st August to 30th April 9am – 1pm
-> Sundays 1st May – 30th September 9am – 7pm
-> 1st October – 30th April 9am – 1pm
+> .........................Monday to Saturday .... 1st May to 31st July .... 9am – 9pm
+> .........................Monday to Saturday .... 1st August to 30th April .... 9am – 1pm
+> .........................Sundays ......1st May – 30th September .... 9am – 7pm
+> ...............................................1st October – 30th April .... 9am – 1pm
 >
 >
 > GARSTON PARK, OXHEY PARK and WOODSIDE PLAYING FIELDS
-> Monday to Saturday 9am - 9pm
-> Sundays
-> 1st May to 30th September 9am – 7pm
-> 1st October to 30th April 9am – 1pm 
+> .........................Monday to Saturday .... 9am - 9pm
+> .........................Sundays
+> ..................................................1st May to 30th September .... 9am – 7pm
+> ..................................................1st October to 30th April .... 9am – 1pm 
 
 
 
