@@ -2,28 +2,15 @@
 title: Downholland Parish Council
 description: 
 published: true
-date: 2021-02-16T12:42:32.854Z
-tags: 
-editor: undefined
+date: 2021-02-22T19:40:08.281Z
+tags: england,lancashire
+editor: markdown
 dateCreated: 2021-02-16T12:42:29.603Z
 ---
 
 # Downholland Parish Council
 
-
-## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
-
-## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
-
-## CAP722C
-
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+This Council does not own any land.
 
 ## What Do They Know
 
