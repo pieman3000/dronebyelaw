@@ -2,9 +2,9 @@
 title: Kent County Council
 description: 
 published: true
-date: 2021-02-16T12:41:08.283Z
-tags: 
-editor: undefined
+date: 2021-02-22T18:30:59.808Z
+tags: england,kent
+editor: markdown
 dateCreated: 2021-02-16T12:41:05.238Z
 ---
 
@@ -12,18 +12,14 @@ dateCreated: 2021-02-16T12:41:05.238Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+> we do have a local policy. You must have permission from the landowner (KCC) to fly any UAV on any property belonging to KCC.
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): "this is not applicable as you still need permission to fly a UAV on our land."
 
 ## What Do They Know
 
