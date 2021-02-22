@@ -2,29 +2,24 @@
 title: Leicestershire County Council
 description: 
 published: true
-date: 2021-02-16T12:44:10.324Z
-tags: 
-editor: undefined
+date: 2021-02-22T21:55:34.715Z
+tags: england,leicestershire
+editor: markdown
 dateCreated: 2021-02-16T12:44:07.490Z
 ---
 
 # Leicestershire County Council
->  Awaiting Response
-> {.is-danger}
 
 ## Byelaw
-> Paste full byelaw here
+> Leicestershire County Council’s byelaws do not contain specific elements relating to UAVs / drones.
 
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+> Launching and landing of any UAV by anyone is only permitted if they have valid insurance and certificate of competence. These must be submitted to obtain permission.
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+> Our local policies only affect take off and landing and at present we do not intend to apply the provisions contained within CAP722C.
 
 ## What Do They Know
 
