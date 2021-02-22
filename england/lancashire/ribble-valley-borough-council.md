@@ -2,28 +2,23 @@
 title: Ribble Valley Borough Council
 description: 
 published: true
-date: 2021-02-16T12:43:10.020Z
-tags: 
-editor: undefined
+date: 2021-02-22T19:19:32.696Z
+tags: england,lancashire
+editor: markdown
 dateCreated: 2021-02-16T12:43:06.054Z
 ---
 
 # Ribble Valley Borough Council
 
-
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
