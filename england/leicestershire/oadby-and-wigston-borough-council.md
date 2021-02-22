@@ -2,9 +2,9 @@
 title: Oadby and Wigston Borough Council
 description: 
 published: true
-date: 2021-02-16T12:44:22.251Z
-tags: 
-editor: undefined
+date: 2021-02-22T21:49:09.225Z
+tags: england,leicestershire
+editor: markdown
 dateCreated: 2021-02-16T12:44:19.496Z
 ---
 
@@ -12,18 +12,15 @@ dateCreated: 2021-02-16T12:44:19.496Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None advised.
 
 ## Policies
 Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+[oadby_and_wigston_drone_and_model_aircraft_usage_policy_rev.november_2018.pdf](/assets/oadby_and_wigston_drone_and_model_aircraft_usage_policy_rev.november_2018.pdf)
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): No
 
 ## What Do They Know
 
