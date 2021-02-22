@@ -2,14 +2,14 @@
 title: Homepage - UK Drone Byelaws Wiki
 description: 
 published: true
-date: 2021-02-18T21:31:12.752Z
+date: 2021-02-22T19:55:15.267Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-16T12:11:43.795Z
 ---
 
 # Not yet live - still under development to import data
-If you're in need of information now, then the links are on each council page to the FOI request ay whatdotheyknow.com 
+If you're in need of information now, then each Council page has a link to the FOI request at whatdotheyknow.com 
 
 # Welcome
 Welcome to a wiki to collect details on the different Byelaws in force accepts the UK affecting drone pilots. Ths has initially been built based on Freedom of Information requests made via [What Do They Know](https://whatdotheyknow.com).
