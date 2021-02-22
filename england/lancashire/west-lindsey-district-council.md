@@ -2,28 +2,25 @@
 title: West Lindsey District Council
 description: 
 published: true
-date: 2021-02-16T12:43:36.598Z
-tags: 
-editor: undefined
+date: 2021-02-22T18:45:26.599Z
+tags: england,lancashire
+editor: markdown
 dateCreated: 2021-02-16T12:43:33.604Z
 ---
 
 # West Lindsey District Council
 
-
 ## Byelaw
-> Paste full byelaw here
+None
 
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+> We don’t have any byelaws relating to this, but that does not mean that permission to use the land for this purpose exists.
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
