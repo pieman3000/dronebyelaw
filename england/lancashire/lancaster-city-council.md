@@ -2,29 +2,23 @@
 title: Lancaster City Council
 description: 
 published: true
-date: 2021-02-16T12:42:54.864Z
-tags: 
-editor: undefined
+date: 2021-02-22T19:36:23.992Z
+tags: england,lancashire
+editor: markdown
 dateCreated: 2021-02-16T12:42:52.123Z
 ---
 
 # Lancaster City Council
->  Awaiting Response
-> {.is-danger}
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
