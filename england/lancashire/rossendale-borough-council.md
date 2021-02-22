@@ -2,9 +2,9 @@
 title: Rossendale Borough Council
 description: 
 published: true
-date: 2021-02-16T12:43:14.762Z
-tags: 
-editor: undefined
+date: 2021-02-22T19:18:45.101Z
+tags: england,lancashire
+editor: markdown
 dateCreated: 2021-02-16T12:43:11.677Z
 ---
 
@@ -12,18 +12,15 @@ dateCreated: 2021-02-16T12:43:11.677Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
 Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+https://www.rossendale.gov.uk/info/210203/parks_and_outdoors/10838/drone_
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): Currently under review
 
 ## What Do They Know
 
