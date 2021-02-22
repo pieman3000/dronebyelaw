@@ -2,29 +2,23 @@
 title: Melton Borough Council
 description: 
 published: true
-date: 2021-02-16T12:44:14.324Z
-tags: 
-editor: undefined
+date: 2021-02-22T21:53:56.857Z
+tags: england,leicestershire
+editor: markdown
 dateCreated: 2021-02-16T12:44:11.563Z
 ---
 
 # Melton Borough Council
->  Awaiting Response
-> {.is-danger}
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
