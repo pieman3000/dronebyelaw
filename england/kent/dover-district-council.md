@@ -2,21 +2,17 @@
 title: Dover District Council
 description: 
 published: true
-date: 2021-02-16T12:40:54.552Z
-tags: 
-editor: undefined
+date: 2021-02-22T18:34:58.602Z
+tags: england,kent
+editor: markdown
 dateCreated: 2021-02-16T12:40:51.681Z
 ---
 
 # Dover District Council
->  Awaiting Response
-> {.is-danger}
+
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
 Link to policy:
