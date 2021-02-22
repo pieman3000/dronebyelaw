@@ -2,28 +2,23 @@
 title: Canterbury City Council
 description: 
 published: true
-date: 2021-02-16T12:40:46.474Z
-tags: 
-editor: undefined
+date: 2021-02-22T18:37:24.966Z
+tags: england,kent
+editor: markdown
 dateCreated: 2021-02-16T12:40:43.459Z
 ---
 
 # Canterbury City Council
 
-
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
