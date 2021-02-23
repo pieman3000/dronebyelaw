@@ -2,9 +2,9 @@
 title: Exmoor National Park Authority
 description: 
 published: true
-date: 2021-02-17T15:44:09.997Z
+date: 2021-02-23T21:56:40.382Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-02-17T15:41:26.370Z
 ---
 
@@ -24,9 +24,7 @@ Exmoor National Park Authority (ENPA) owns about 7% of the land within the Natio
 If you want to fly a drone or other model aircraft from our land you will need to explain what you would like to do and ask us for permission. Much of our estate is rented by farmers, graziers and others and so it may not always be possible for us to give you a licence; however, we will do our best to help.
 If we do issue a licence it will require you to comply with the CAA’s Dronecode: https://dronesafe.uk/drone-code/
 >
-> Legislation relating to ownership and use of drones and model aircraft is subject to
-change and if you intend to fly either in the UK it is your responsibility to be aware of
-the rules currently in place.
+> Legislation relating to ownership and use of drones and model aircraft is subject to change and if you intend to fly either in the UK it is your responsibility to be aware of the rules currently in place.
 >
 > **On Other Land Within Exmoor National Park**
 The Authority can’t give permission for drones to be flown from or over other people’s property, but we may be able to help with landowner information (subject to the provisions of the General Data Protection Regulation).
