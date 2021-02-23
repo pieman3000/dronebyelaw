@@ -2,9 +2,9 @@
 title: Breckland District Council
 description: 
 published: true
-date: 2021-02-16T12:45:51.914Z
-tags: 
-editor: undefined
+date: 2021-02-23T20:06:25.628Z
+tags: england,norfolk
+editor: markdown
 dateCreated: 2021-02-16T12:45:48.708Z
 ---
 
@@ -12,18 +12,14 @@ dateCreated: 2021-02-16T12:45:48.708Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+> A licence would need to be applied for from the landowner to use a UAV on Breckland Council land in which consideration would be given to insurance, pilots licence, flight plan and other details which may need to be considered. In general, Breckland Council support the privacy of our residents above the use of UAV’s.
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): No
 
 ## What Do They Know
 
