@@ -2,7 +2,7 @@
 title: Homepage - UK Drone Byelaws Wiki
 description: 
 published: true
-date: 2021-02-23T22:36:27.442Z
+date: 2021-02-23T22:40:18.710Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-16T12:11:43.795Z
@@ -20,5 +20,5 @@ As ever, please ensure that this resource is used as only a part of your researc
 
 ## Areas for Development - User support encouraged
 - London - It's complicated! Between the variety of Councils, airports and other restrictions it needs some dedicated focus.
-- Adding more Civil Parishes - These are listed alphabetically in the /england/to-request folder if you'd like to 'adopt' any to send a Freedom of Information act requests and then update here. The list is from whatdotheyknow.com and so there may be some Parish Councils created since that list was updated, don't let that stop you adding Parish Councils not already on the site.
+- Adding more Civil Parishes - These are listed alphabetically in the /england/to-request folder if you'd like to 'adopt' any to send a Freedom of Information act requests and then update here. The list is from whatdotheyknow.com and so there may be some Parish Councils created since that list was updated. Don't let that stop you adding Parish Councils not already on the site!
 - Scotland has not been included due to the different laws regarding trespass, more research is needed here. If you know about this, please get in touch with me at simon@dronebyelaw.co.uk 
