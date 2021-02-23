@@ -2,29 +2,28 @@
 title: North Somerset Council
 description: 
 published: true
-date: 2021-02-16T12:52:29.258Z
-tags: 
-editor: undefined
+date: 2021-02-23T21:55:39.432Z
+tags: england,somerset
+editor: markdown
 dateCreated: 2021-02-16T12:52:25.676Z
 ---
 
 # North Somerset Council
->  Awaiting Response
-> {.is-danger}
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
+> Permission will not be granted for hobbyist pilots to take off, fly over, or land on council land or property.
+>
+> We have developed this procedure for those wishing to film commercially using a drone. This includes condition inspections of council buildings and assets.
+
 Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+https://www.n-somerset.gov.uk/business/licences-permits/other-licences-permits/drones
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): No response
 
 ## What Do They Know
 
