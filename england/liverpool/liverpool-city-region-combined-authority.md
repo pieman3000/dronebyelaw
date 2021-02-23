@@ -2,28 +2,18 @@
 title: Liverpool City Region Combined Authority
 description: 
 published: true
-date: 2021-02-16T12:45:28.901Z
-tags: 
-editor: undefined
+date: 2021-02-23T20:31:16.129Z
+tags: england,liverpool
+editor: markdown
 dateCreated: 2021-02-16T12:45:25.974Z
 ---
 
 # Liverpool City Region Combined Authority
 
 
-## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
-
-## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
-
-## CAP722C
-
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+> The Liverpool City Region Combined Authority does not have any byelaws or policies regarding the use of UAVs (Unmanned Aerial Vehicles) from our land.
+>
+> Please note, however, that none of the land owned by the Combined Authority is designated as recreational or open space (i.e. a public park), meaning that members of the public can be asked to vacate the area if required. As a result of this a designated policy regarding UAVs is not required.
 
 ## What Do They Know
 
