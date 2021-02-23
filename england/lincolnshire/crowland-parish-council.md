@@ -2,9 +2,9 @@
 title: Crowland Parish Council
 description: 
 published: true
-date: 2021-02-16T12:44:30.191Z
-tags: 
-editor: undefined
+date: 2021-02-23T19:40:13.787Z
+tags: england,lincolnshire
+editor: markdown
 dateCreated: 2021-02-16T12:44:27.418Z
 ---
 
@@ -12,18 +12,14 @@ dateCreated: 2021-02-16T12:44:27.418Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+> We are able to confirm that UAV/Drone Flights are not allowed on or over any of our Parish Council Land without the prior permission of ourselves.
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): No response
 
 ## What Do They Know
 
