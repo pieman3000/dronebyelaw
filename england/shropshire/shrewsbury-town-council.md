@@ -2,9 +2,9 @@
 title: Shrewsbury Town Council
 description: 
 published: true
-date: 2021-02-16T12:51:48.106Z
+date: 2021-02-23T21:37:45.688Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-02-16T12:51:44.829Z
 ---
 
@@ -13,6 +13,13 @@ dateCreated: 2021-02-16T12:51:44.829Z
 
 
 ## Byelaw
+> 25. A person shall not fly any power-driven model aircraft in the pleasure ground.
+> 26. Where any part of the pleasure ground has, by a notice conspicuously exhibited in the pleasure ground, been set apart by the Council for the flying of power-driven model aircraft, a person shall not fly or permit any such model aircraft to fly in any other part of the pleasure ground.
+> 27. A person shall not, in any part of the pleasure ground so set apart by the Council for the flying of power-driven model aircraft-
+> (a) fly any such jet propelled or rocket propelled model aircraft unless it is attached to a control line and is kept under effective control.
+> (b) fly any such model aircraft except on the days and during the hours specified in the following table in respect of the pleasure ground -
+> Sundome Recreation Ground ... All days except such days as the pleasure ground is closed [...] ... From 8am until 9pm or 30 minutes after sunset whichever shall be the earlier.
+> 28. In these byelaws the expression "power-driven model aircraft" means any model aircraft driven by the combustion of petrol vapour or other combustible substances.
 
 Link: [shrewsbury_town_council.pdf](/shrewsbury_town_council.pdf)
 
