@@ -2,29 +2,24 @@
 title: Oxfordshire County Council
 description: 
 published: true
-date: 2021-02-16T12:50:57.732Z
-tags: 
-editor: undefined
+date: 2021-02-23T21:19:37.692Z
+tags: england,oxfordshire
+editor: markdown
 dateCreated: 2021-02-16T12:50:54.617Z
 ---
 
 # Oxfordshire County Council
->  Awaiting Response
-> {.is-danger}
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
 Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+[oxfordshire_county_county_uav_drone_filming_guidance_v.2.pdf](/assets/oxfordshire_county_county_uav_drone_filming_guidance_v.2.pdf)
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): No
 
 ## What Do They Know
 
