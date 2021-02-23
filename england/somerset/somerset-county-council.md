@@ -2,29 +2,23 @@
 title: Somerset County Council
 description: 
 published: true
-date: 2021-02-16T12:52:39.263Z
-tags: 
-editor: undefined
+date: 2021-02-23T21:46:22.369Z
+tags: england,somerset
+editor: markdown
 dateCreated: 2021-02-16T12:52:35.819Z
 ---
 
 # Somerset County Council
->  Awaiting Response
-> {.is-danger}
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
