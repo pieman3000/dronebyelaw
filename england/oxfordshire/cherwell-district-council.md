@@ -2,28 +2,23 @@
 title: Cherwell District Council
 description: 
 published: true
-date: 2021-02-16T12:50:43.667Z
-tags: 
-editor: undefined
+date: 2021-02-23T21:15:09.893Z
+tags: england,oxfordshire
+editor: markdown
 dateCreated: 2021-02-16T12:50:39.907Z
 ---
 
 # Cherwell District Council
 
-
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
