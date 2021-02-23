@@ -2,28 +2,24 @@
 title: Saltburn, Marske and New Marske Parish Council
 description: 
 published: true
-date: 2021-02-16T12:48:17.895Z
-tags: 
-editor: undefined
+date: 2021-02-23T20:42:53.412Z
+tags: england,north-yorkshire
+editor: markdown
 dateCreated: 2021-02-16T12:48:14.098Z
 ---
 
 # Saltburn, Marske and New Marske Parish Council
-
+> The Parish Council do not own any land in the Parish, except for a small area in Marske
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
