@@ -2,28 +2,25 @@
 title: Redcar and Cleveland Borough Council
 description: 
 published: true
-date: 2021-02-16T12:47:59.346Z
-tags: 
-editor: undefined
+date: 2021-02-23T20:45:21.246Z
+tags: england,north-yorkshire
+editor: markdown
 dateCreated: 2021-02-16T12:47:56.155Z
 ---
 
 # Redcar and Cleveland Borough Council
 
-
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+> The Council doesn't have a drone policy in place.
+> As an authority we do not give consent to the flying of drones from Council owned land
+
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
