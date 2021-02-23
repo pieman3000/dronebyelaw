@@ -2,28 +2,23 @@
 title: South Witham Parish Council
 description: 
 published: true
-date: 2021-02-16T12:45:15.599Z
-tags: 
-editor: undefined
+date: 2021-02-23T20:00:07.747Z
+tags: england,lincolnshire
+editor: markdown
 dateCreated: 2021-02-16T12:45:12.091Z
 ---
 
 # South Witham Parish Council
 
-
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None advised
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
