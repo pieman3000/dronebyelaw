@@ -2,28 +2,23 @@
 title: Lilleshall Donnington and Muxton Parish Council
 description: 
 published: true
-date: 2021-02-16T12:51:43.274Z
-tags: 
-editor: undefined
+date: 2021-02-23T21:38:13.150Z
+tags: england,shropshire
+editor: markdown
 dateCreated: 2021-02-16T12:51:39.926Z
 ---
 
 # Lilleshall Donnington and Muxton Parish Council
 
-
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
