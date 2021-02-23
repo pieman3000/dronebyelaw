@@ -2,9 +2,9 @@
 title: Shropshire Council
 description: 
 published: true
-date: 2021-02-16T12:51:52.791Z
-tags: 
-editor: undefined
+date: 2021-02-23T21:28:17.672Z
+tags: england,shropshire
+editor: markdown
 dateCreated: 2021-02-16T12:51:49.518Z
 ---
 
@@ -12,18 +12,18 @@ dateCreated: 2021-02-16T12:51:49.518Z
 
 
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None advised
 
 ## Policies
+> **Policy Statement 13**
+> Shropshire Council will not allow any aerial activity from drones or model aircraft above its Country Parks & Heritage Sites, unless specific permission is granted.
+
 Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+https://shropshire.gov.uk/committee-services/documents/s18914/Draft%20Shropshire%20Council%20Outdoor%20Partnership%20Policies.pdf
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): No
 
 ## What Do They Know
 
