@@ -2,28 +2,23 @@
 title: Roydon Parish Council
 description: 
 published: true
-date: 2021-02-16T12:46:38.394Z
-tags: 
-editor: undefined
+date: 2021-02-23T20:10:26.891Z
+tags: england,norfolk
+editor: markdown
 dateCreated: 2021-02-16T12:46:35.297Z
 ---
 
 # Roydon Parish Council
 
-
 ## Byelaw
-> Paste full byelaw here
-
-Link:
-https://testcouncil.co.uk/parks/byelaw.html
+None
 
 ## Policies
-Link to policy:
-https://testcouncil.co.uk/parks/dronepolicy.pdf
+None
 
 ## CAP722C
 
-Was CAP722C reviewed by the Council (if asked on the FOI): Yes / No
+Was CAP722C reviewed by the Council (if asked on the FOI): N/A
 
 ## What Do They Know
 
